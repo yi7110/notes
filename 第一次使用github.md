@@ -1,6 +1,6 @@
 **配置全局变量**
-git config --global user.name "liuzf"
-git config --global user.email "592725127@qq.com"
+[git config --global user.name "liuzf"]()
+[git config --global user.email "592725127@qq.com"]()
 **配置ssh**
 cd ~/.sshk
 ssh-keygen -t rsa -C "592725127@qq.com"
