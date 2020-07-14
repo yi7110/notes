@@ -21,4 +21,4 @@ Alt+Shift+F7 在 Debug 模式下，进入下一步，如果当前断点是一个
 > + 自动生成not null语句  **输入.notnull**
 > + 用快捷键移动分割线  
 **要想完整的看到这个类的名字，该怎么做呢？一般都是使用鼠标来移动分割线，但是这样子效率太低了。可以使用alt+1把鼠标焦点定位到project视图里，然后直接使用ctrl+shift+左右箭头来移动分割线**
-
+https://www.cnblogs.com/psyche61/p/10737530.html
